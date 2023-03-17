@@ -1,0 +1,3 @@
+You should save your github token in txt file named token_file.txt 
+
+To generate a github token visit : https://github.com/settings/tokens/new
